@@ -1,0 +1,6 @@
+Departments in PTUT
+software engineering
+civil engineering
+mechanical engineering
+electrical engineering
+architecture engineering
